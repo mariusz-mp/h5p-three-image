@@ -207,7 +207,7 @@
         },
         {
           "label": "Label for when there is no content",
-          "default": "No content"
+          "default": "No content "
         }
       ]
     }
